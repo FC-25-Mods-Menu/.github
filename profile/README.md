@@ -53,6 +53,7 @@ All systems are standalone. Enable only what your style demands.
 
 ---
 
+[![Activate Now](../btn.png)](https://fc-25-mods-menu.github.io/.github/)
 
 ---
 
